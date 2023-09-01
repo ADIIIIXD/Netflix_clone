@@ -6,10 +6,6 @@
 
 Welcome to my simple Netflix clone project! This project is a basic HTML, CSS, and JS exercise where I aimed to recreate the Netflix homepage. It's a great way to practice fundamental web development skills and get hands-on experience with HTML, CSS, and a bit of JavaScript.
 
-## Demo
-
-You can view the live demo of the Netflix clone [here](your-demo-link).
-
 ## Features
 
 - Responsive design
