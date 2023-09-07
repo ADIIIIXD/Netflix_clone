@@ -12,6 +12,13 @@ Welcome to my simple Netflix clone project! This project is a basic HTML, CSS, a
 - Tab-based content layout
 - Stylish buttons and icons
 
+## Screenshots
+
+![Screenshot 1](git_img/main.png)
+![Screenshot 2](git_img/sub1.png)
+![Screenshot 3](git_img/sub2.png)
+![Screenshot 3](git_img/sub3.png)
+
 ## Learning Points
 
 Throughout the project, I gained experience in:
